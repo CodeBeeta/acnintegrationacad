@@ -19,6 +19,11 @@ Abaixo a lista de episódios da primeira temporada da Academia Integração by A
 
 Problemas para acessar? busque por mim no Teams: roberta.c.novaes@accenture.com.
 
+
+## Aprofundando o conhecimento
+Conheça a trilha de Integração, onde você pode aprofundar e esclarecer conceitos
+[Acesse a trilha clicando aqui](https://myoffice.accenture.com/personal/roberta_c_novaes_accenture_com/_layouts/15/onedrive.aspx?login_hint=roberta%2Ec%2Enovaes%40accenture%2Ecom&id=%2Fpersonal%2Froberta%5Fc%5Fnovaes%5Faccenture%5Fcom%2FDocuments%2FTrilha%20de%20Estudos%20Integra%C3%A7%C3%A3o)
+
 ## Organização das pastas
 As pastas existem para organizar os códigos que vimos em aula, dessa forma eles sempre estarão disponíveis para vocês consultarem. Abaixo um exemplo de como as pastas estão organizadas
 ```sh
